@@ -25,6 +25,7 @@ This project is a web-based Online Food Ordering System developed using PHP, HTM
 2. Copy the project folder into the htdocs folder (for XAMPP)
 3. Start Apache and MySQL from XAMPP control panel
 4. Import the database file (.sql) into phpMyAdmin
+5. Open a browser and run the application using: http://localhost/OnlineFoodOrderingSystem/
 
 **Future Improvements**:
 
